@@ -3,7 +3,7 @@ package lrmpcal;
 
 /**
  *
- * @author MERC-LAB-01
+ * @author NIpun
  */
 public class LrmpCal {
 
